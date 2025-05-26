@@ -188,7 +188,7 @@ int main()
 !./matrix_mul
 ```
 ## OUTPUT:
-![Screenshot 2025-05-26 200341](https://github.com/user-attachments/assets/f8b8842c-3006-4167-bce1-3332b983bb5f)
+![image](https://github.com/user-attachments/assets/9dc51b94-4ed3-4c23-b4b2-b477f0638785)
 
 
 ## RESULT:
